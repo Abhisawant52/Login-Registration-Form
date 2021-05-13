@@ -6,4 +6,5 @@ Animated Login and SignUp Form with Flip Animation using CSS3 and jQuery. Whenve
 
 ## Demo
 
+![Screenshot](/pic/demo.gif)
 
